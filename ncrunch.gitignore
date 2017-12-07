@@ -1,4 +1,7 @@
 # NCrunch
+# https://tinyurl.com/ncrunch-v1-gitignore
+# https://tinyurl.com/ncrunch-v2-gitignore
+# https://tinyurl.com/ncrunch-v3-gitignore
 _NCrunch_*
 .*crunch*.local.xml
 nCrunchTemp_*
